@@ -1,0 +1,5 @@
+:h:alpha:
+:c:beta:
+:h:gama:
+:c:delta:
+:out:qdc-crmd2html:
