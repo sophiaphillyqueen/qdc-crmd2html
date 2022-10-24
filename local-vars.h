@@ -28,10 +28,10 @@ void out_with_the_html ( void );
 
 // The variable is used to index where you are
 // in processing the command line.
-int argum_idexr;
+extern int argum_idexr;
 
 // Get the next argument from the command line.
-char *get_nx_rg ( void )
+char *get_nx_rg ( void );
 
 // Process a single command-line option
 void procs_cml_opt ( char *rg_a );

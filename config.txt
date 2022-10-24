@@ -1,5 +1,8 @@
 :h:main-head:
 :h:local-dtypes:
 :h:local-invoke:
+:h:local-vars:
+:c:vars:
 :c:main:
+:c:m2_ain:
 :out:qdc-crmd2html:
